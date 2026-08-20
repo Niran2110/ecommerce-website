@@ -69,7 +69,7 @@ Add your project screenshot here:
 
 ## 🔗 Live Demo
 
-Live Website: Add your GitHub Pages link here
+Live Website: https://niran2110.github.io/ecommerce-website/
 
 ## 👨‍💻 Author
 
