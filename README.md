@@ -69,7 +69,7 @@ Add your project screenshot here:
 
 ## 🔗 Live Demo
 
-Live Website: https://niran2110.github.io/ecommerce-website/
+Live Website: https://niran2110.github.io/ecommerce-website/  (Use only 1024px,768px and 425px)
 
 ## 👨‍💻 Author
 
